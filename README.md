@@ -30,6 +30,7 @@ O projeto está estruturado em diferentes módulos, separando a lógica de moeda
 O repositório contém:
 
 📦 ConversorDeMoedas
+
 ├── main.py # Arquivo principal para execução
 
 ├── PegarMoedas.py # Módulo para listar e carregar moedas
