@@ -2,7 +2,7 @@
 
 Aplicativo em **Python** para conversão de valores entre diferentes moedas de forma simples e eficiente.
 
-Este projeto foi desenvolvido com o objetivo de aplicar lógica de programação, manipulação de arquivos e estruturas de dados trabalhando com diferentes formatos de entrada e saída.
+Este projeto foi desenvolvido com o objetivo de aplicar lógica de programação, manipulação de arquivos e estruturas de dados trabalhando com diferentes bibliotecas, funções e requisições.
 
 ---
 
