@@ -27,7 +27,7 @@ O projeto está estruturado em diferentes módulos, separando a lógica de moeda
 
 ## 🗂️ Estrutura do Projeto
 
-O repositório contém:
+O arquivo contém:
 
 📦 ConversorDeMoedas
 
