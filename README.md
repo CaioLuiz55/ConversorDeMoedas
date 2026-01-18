@@ -31,8 +31,12 @@ O repositório contém:
 
 📦 ConversorDeMoedas
 ├── main.py # Arquivo principal para execução
+
 ├── PegarMoedas.py # Módulo para listar e carregar moedas
+
 ├── PegarCotaçao.py # Módulo para obter cotações
+
 ├── moedas.xml # Dados de moedas disponíveis
+
 └── conversoes.xml # Histórico/definições de conversões
 
