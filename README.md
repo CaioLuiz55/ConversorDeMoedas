@@ -22,6 +22,9 @@ O projeto está estruturado em diferentes módulos, separando a lógica de moeda
 - 🐍 **Python 3**
 - Manipulação de dados com arquivos `.xml`
 - Estruturas condicionais e funções
+- Apis de cotações atuais
+- manipulação de dados json.
+  
 
 ---
 
